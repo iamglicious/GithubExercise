@@ -7,5 +7,7 @@ public class App{
 	}
 	private static void doStuff(){
 		System.out.println("App.DoStuff");
+		private static void doStuff2(){
+			System.out.println("App.DoStuff");
 	}
 }
